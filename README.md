@@ -177,13 +177,6 @@ Get free API keys:
 - **HuggingFace**: https://huggingface.co/settings/tokens (Free)
 - **OpenAI**: https://platform.openai.com/api-keys (Paid)
 
-## Contributing
-
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
-## License
-
-MIT License
 
 ## Acknowledgments
 
