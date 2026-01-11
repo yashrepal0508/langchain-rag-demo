@@ -1,0 +1,6 @@
+You have to build an Agentic AI System that transforms a traditional search-and-
+click pharmacy into an autonomous ecosystem. The system should behave like
+an expert pharmacist, understand natural voice/text conversations, predict medicine
+refill needs, enforce safety and prescription rules, and autonomously execute
+backend tasks such as inventory updates and procurement—with minimal human
+intervention.
